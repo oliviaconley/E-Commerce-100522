@@ -15,7 +15,7 @@ Configuring a working Express.js API to use Sequelize to interact with a MySQL d
 
 ## Links
 
-Screencastify: https://github.com/oliviaconley/E-Commerce-100522
+Screencastify: https://watch.screencastify.com/v/qDh8pdO5CGCHrlMT8xXr
 
 GitHub: https://github.com/oliviaconley
 
